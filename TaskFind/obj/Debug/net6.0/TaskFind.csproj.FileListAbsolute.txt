@@ -1,0 +1,15 @@
+C:\Users\ДимЧек\Downloads\HWL#1\TaskFind\bin\Debug\net6.0\TaskFind.exe
+C:\Users\ДимЧек\Downloads\HWL#1\TaskFind\bin\Debug\net6.0\TaskFind.deps.json
+C:\Users\ДимЧек\Downloads\HWL#1\TaskFind\bin\Debug\net6.0\TaskFind.runtimeconfig.json
+C:\Users\ДимЧек\Downloads\HWL#1\TaskFind\bin\Debug\net6.0\TaskFind.dll
+C:\Users\ДимЧек\Downloads\HWL#1\TaskFind\bin\Debug\net6.0\TaskFind.pdb
+C:\Users\ДимЧек\Downloads\HWL#1\TaskFind\obj\Debug\net6.0\TaskFind.csproj.AssemblyReference.cache
+C:\Users\ДимЧек\Downloads\HWL#1\TaskFind\obj\Debug\net6.0\TaskFind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ДимЧек\Downloads\HWL#1\TaskFind\obj\Debug\net6.0\TaskFind.AssemblyInfoInputs.cache
+C:\Users\ДимЧек\Downloads\HWL#1\TaskFind\obj\Debug\net6.0\TaskFind.AssemblyInfo.cs
+C:\Users\ДимЧек\Downloads\HWL#1\TaskFind\obj\Debug\net6.0\TaskFind.csproj.CoreCompileInputs.cache
+C:\Users\ДимЧек\Downloads\HWL#1\TaskFind\obj\Debug\net6.0\TaskFind.dll
+C:\Users\ДимЧек\Downloads\HWL#1\TaskFind\obj\Debug\net6.0\refint\TaskFind.dll
+C:\Users\ДимЧек\Downloads\HWL#1\TaskFind\obj\Debug\net6.0\TaskFind.pdb
+C:\Users\ДимЧек\Downloads\HWL#1\TaskFind\obj\Debug\net6.0\TaskFind.genruntimeconfig.cache
+C:\Users\ДимЧек\Downloads\HWL#1\TaskFind\obj\Debug\net6.0\ref\TaskFind.dll

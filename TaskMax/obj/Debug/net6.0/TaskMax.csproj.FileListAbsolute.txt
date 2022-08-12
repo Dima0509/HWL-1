@@ -1,0 +1,15 @@
+C:\Users\ДимЧек\Downloads\HWL#1\TaskMax\bin\Debug\net6.0\TaskMax.exe
+C:\Users\ДимЧек\Downloads\HWL#1\TaskMax\bin\Debug\net6.0\TaskMax.deps.json
+C:\Users\ДимЧек\Downloads\HWL#1\TaskMax\bin\Debug\net6.0\TaskMax.runtimeconfig.json
+C:\Users\ДимЧек\Downloads\HWL#1\TaskMax\bin\Debug\net6.0\TaskMax.dll
+C:\Users\ДимЧек\Downloads\HWL#1\TaskMax\bin\Debug\net6.0\TaskMax.pdb
+C:\Users\ДимЧек\Downloads\HWL#1\TaskMax\obj\Debug\net6.0\TaskMax.csproj.AssemblyReference.cache
+C:\Users\ДимЧек\Downloads\HWL#1\TaskMax\obj\Debug\net6.0\TaskMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ДимЧек\Downloads\HWL#1\TaskMax\obj\Debug\net6.0\TaskMax.AssemblyInfoInputs.cache
+C:\Users\ДимЧек\Downloads\HWL#1\TaskMax\obj\Debug\net6.0\TaskMax.AssemblyInfo.cs
+C:\Users\ДимЧек\Downloads\HWL#1\TaskMax\obj\Debug\net6.0\TaskMax.csproj.CoreCompileInputs.cache
+C:\Users\ДимЧек\Downloads\HWL#1\TaskMax\obj\Debug\net6.0\TaskMax.dll
+C:\Users\ДимЧек\Downloads\HWL#1\TaskMax\obj\Debug\net6.0\refint\TaskMax.dll
+C:\Users\ДимЧек\Downloads\HWL#1\TaskMax\obj\Debug\net6.0\TaskMax.pdb
+C:\Users\ДимЧек\Downloads\HWL#1\TaskMax\obj\Debug\net6.0\TaskMax.genruntimeconfig.cache
+C:\Users\ДимЧек\Downloads\HWL#1\TaskMax\obj\Debug\net6.0\ref\TaskMax.dll

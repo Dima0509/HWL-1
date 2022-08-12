@@ -1,0 +1,15 @@
+C:\Users\ДимЧек\Downloads\HWL#1\Task MaxArray\bin\Debug\net6.0\Task MaxArray.exe
+C:\Users\ДимЧек\Downloads\HWL#1\Task MaxArray\bin\Debug\net6.0\Task MaxArray.deps.json
+C:\Users\ДимЧек\Downloads\HWL#1\Task MaxArray\bin\Debug\net6.0\Task MaxArray.runtimeconfig.json
+C:\Users\ДимЧек\Downloads\HWL#1\Task MaxArray\bin\Debug\net6.0\Task MaxArray.dll
+C:\Users\ДимЧек\Downloads\HWL#1\Task MaxArray\bin\Debug\net6.0\Task MaxArray.pdb
+C:\Users\ДимЧек\Downloads\HWL#1\Task MaxArray\obj\Debug\net6.0\Task MaxArray.csproj.AssemblyReference.cache
+C:\Users\ДимЧек\Downloads\HWL#1\Task MaxArray\obj\Debug\net6.0\Task MaxArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ДимЧек\Downloads\HWL#1\Task MaxArray\obj\Debug\net6.0\Task MaxArray.AssemblyInfoInputs.cache
+C:\Users\ДимЧек\Downloads\HWL#1\Task MaxArray\obj\Debug\net6.0\Task MaxArray.AssemblyInfo.cs
+C:\Users\ДимЧек\Downloads\HWL#1\Task MaxArray\obj\Debug\net6.0\Task MaxArray.csproj.CoreCompileInputs.cache
+C:\Users\ДимЧек\Downloads\HWL#1\Task MaxArray\obj\Debug\net6.0\Task MaxArray.dll
+C:\Users\ДимЧек\Downloads\HWL#1\Task MaxArray\obj\Debug\net6.0\refint\Task MaxArray.dll
+C:\Users\ДимЧек\Downloads\HWL#1\Task MaxArray\obj\Debug\net6.0\Task MaxArray.pdb
+C:\Users\ДимЧек\Downloads\HWL#1\Task MaxArray\obj\Debug\net6.0\Task MaxArray.genruntimeconfig.cache
+C:\Users\ДимЧек\Downloads\HWL#1\Task MaxArray\obj\Debug\net6.0\ref\Task MaxArray.dll

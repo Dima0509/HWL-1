@@ -1,0 +1,15 @@
+C:\Users\ДимЧек\Downloads\HWL#1\NewFind\bin\Debug\net6.0\NewFind.exe
+C:\Users\ДимЧек\Downloads\HWL#1\NewFind\bin\Debug\net6.0\NewFind.deps.json
+C:\Users\ДимЧек\Downloads\HWL#1\NewFind\bin\Debug\net6.0\NewFind.runtimeconfig.json
+C:\Users\ДимЧек\Downloads\HWL#1\NewFind\bin\Debug\net6.0\NewFind.dll
+C:\Users\ДимЧек\Downloads\HWL#1\NewFind\bin\Debug\net6.0\NewFind.pdb
+C:\Users\ДимЧек\Downloads\HWL#1\NewFind\obj\Debug\net6.0\NewFind.csproj.AssemblyReference.cache
+C:\Users\ДимЧек\Downloads\HWL#1\NewFind\obj\Debug\net6.0\NewFind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ДимЧек\Downloads\HWL#1\NewFind\obj\Debug\net6.0\NewFind.AssemblyInfoInputs.cache
+C:\Users\ДимЧек\Downloads\HWL#1\NewFind\obj\Debug\net6.0\NewFind.AssemblyInfo.cs
+C:\Users\ДимЧек\Downloads\HWL#1\NewFind\obj\Debug\net6.0\NewFind.csproj.CoreCompileInputs.cache
+C:\Users\ДимЧек\Downloads\HWL#1\NewFind\obj\Debug\net6.0\NewFind.dll
+C:\Users\ДимЧек\Downloads\HWL#1\NewFind\obj\Debug\net6.0\refint\NewFind.dll
+C:\Users\ДимЧек\Downloads\HWL#1\NewFind\obj\Debug\net6.0\NewFind.pdb
+C:\Users\ДимЧек\Downloads\HWL#1\NewFind\obj\Debug\net6.0\NewFind.genruntimeconfig.cache
+C:\Users\ДимЧек\Downloads\HWL#1\NewFind\obj\Debug\net6.0\ref\NewFind.dll

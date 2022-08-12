@@ -1,0 +1,15 @@
+C:\Users\ДимЧек\Downloads\HWL#1\Task MaxMassive\bin\Debug\net6.0\Task MaxMassive.exe
+C:\Users\ДимЧек\Downloads\HWL#1\Task MaxMassive\bin\Debug\net6.0\Task MaxMassive.deps.json
+C:\Users\ДимЧек\Downloads\HWL#1\Task MaxMassive\bin\Debug\net6.0\Task MaxMassive.runtimeconfig.json
+C:\Users\ДимЧек\Downloads\HWL#1\Task MaxMassive\bin\Debug\net6.0\Task MaxMassive.dll
+C:\Users\ДимЧек\Downloads\HWL#1\Task MaxMassive\bin\Debug\net6.0\Task MaxMassive.pdb
+C:\Users\ДимЧек\Downloads\HWL#1\Task MaxMassive\obj\Debug\net6.0\Task MaxMassive.csproj.AssemblyReference.cache
+C:\Users\ДимЧек\Downloads\HWL#1\Task MaxMassive\obj\Debug\net6.0\Task MaxMassive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ДимЧек\Downloads\HWL#1\Task MaxMassive\obj\Debug\net6.0\Task MaxMassive.AssemblyInfoInputs.cache
+C:\Users\ДимЧек\Downloads\HWL#1\Task MaxMassive\obj\Debug\net6.0\Task MaxMassive.AssemblyInfo.cs
+C:\Users\ДимЧек\Downloads\HWL#1\Task MaxMassive\obj\Debug\net6.0\Task MaxMassive.csproj.CoreCompileInputs.cache
+C:\Users\ДимЧек\Downloads\HWL#1\Task MaxMassive\obj\Debug\net6.0\Task MaxMassive.dll
+C:\Users\ДимЧек\Downloads\HWL#1\Task MaxMassive\obj\Debug\net6.0\refint\Task MaxMassive.dll
+C:\Users\ДимЧек\Downloads\HWL#1\Task MaxMassive\obj\Debug\net6.0\Task MaxMassive.pdb
+C:\Users\ДимЧек\Downloads\HWL#1\Task MaxMassive\obj\Debug\net6.0\Task MaxMassive.genruntimeconfig.cache
+C:\Users\ДимЧек\Downloads\HWL#1\Task MaxMassive\obj\Debug\net6.0\ref\Task MaxMassive.dll
